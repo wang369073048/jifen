@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-api/score-api.iml" filepath="$PROJECT_DIR$/score-server/score-api/score-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-biz/score-biz.iml" filepath="$PROJECT_DIR$/score-server/score-biz/score-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-common/score-common.iml" filepath="$PROJECT_DIR$/score-server/score-common/score-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-dao/score-dao.iml" filepath="$PROJECT_DIR$/score-server/score-dao/score-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-server.iml" filepath="$PROJECT_DIR$/score-server/score-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-service-consumer/score-service-consumer.iml" filepath="$PROJECT_DIR$/score-server/score-service-consumer/score-service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-service-provider/score-service-provider.iml" filepath="$PROJECT_DIR$/score-server/score-service-provider/score-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-test/score-test.iml" filepath="$PROJECT_DIR$/score-server/score-test/score-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-util/score-util.iml" filepath="$PROJECT_DIR$/score-server/score-util/score-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-server/score-web/score-web.iml" filepath="$PROJECT_DIR$/score-server/score-web/score-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/score2.iml" filepath="$PROJECT_DIR$/.idea/score2.iml" />
+    </modules>
+  </component>
+</project>
